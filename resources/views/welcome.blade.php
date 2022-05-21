@@ -143,7 +143,7 @@
             <ul class="navbar-nav">
 
                 <li class="nav-item">
-                    <a class="nav-link active" href="index.html">Home</a>
+                    <a class="nav-link active" href="index.html">Dashboard</a>
                 </li>
 
                 <li class="nav-item">
@@ -1066,7 +1066,7 @@
                 <nav class="nav-footer">
                     <ul class="list-inline">
                         <li class="list-inline-item">
-                            <a href="#">Home</a>
+                            <a href="#">Dashboard</a>
                         </li>
                         <li class="list-inline-item">
                             <a href="#">About</a>
